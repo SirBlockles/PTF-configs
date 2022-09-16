@@ -2,7 +2,7 @@
 This repo contains the new and improved PASS Time Federation server configs, as of season 3. This repo will be updated as the server configs recieve changes. There are only 3 config files, since PTF only features a single mode in a single format.
 
 ## game rules
-The first team to win 4 rounds total, wins the match.
+The first team to win 4 rounds total, wins the match. Score 5 goals, or have the most scores when the time runs out, to win a round.
 
 The game is played in "halves" which end when a team wins 2 rounds. Halves also end after 3 rounds have passed or 30 minutes have passed, to prevent stalemates from making halves last forever. The number of halves you win does not matter - they are simply downtime for teams to strategize or take a pee break or whatever. There can also be more than two halves, despite the name.
 
